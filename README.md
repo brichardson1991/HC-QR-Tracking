@@ -9,8 +9,6 @@
   gtag('config', 'G-XCPKCEX7WB');
 </script>
 
-<!-- redirect -->
-<meta http-equiv="Refresh" content="2; url='https://online.getsquire.com/book/headcase-barbers-farnham-england'" />
 
 </head>
 # HC-QR-Tracking

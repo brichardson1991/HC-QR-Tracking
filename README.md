@@ -1,6 +1,4 @@
 <head>
-<title>QR Tracking</title>
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XCPKCEX7WB"></script>
 <script>

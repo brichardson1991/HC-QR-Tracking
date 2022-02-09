@@ -1,4 +1,6 @@
 <head>
+<title>QR Tracking</title>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XCPKCEX7WB"></script>
 <script>
@@ -8,7 +10,12 @@
 
   gtag('config', 'G-XCPKCEX7WB');
 </script>
-</head>
 
+<!-- redirect -->
+<meta http-equiv="Refresh" content="2; url='https://online.getsquire.com/book/headcase-barbers-farnham-england'" />
+
+</head>
+<body>
 # HC-QR-Tracking
 Hosted website for analytics on QR scanning
+</body>

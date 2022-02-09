@@ -12,5 +12,5 @@
 <meta http-equiv="Refresh" content="1; url='https://online.getsquire.com/book/headcase-barbers-farnham-england'" />
 
 </head>
-# HC-QR-Tracking
-Hosted website for analytics on QR scanning
+# Please wait whilst we re-direct you
+Thank you for waiting
